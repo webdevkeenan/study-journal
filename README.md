@@ -1,6 +1,6 @@
 # My Study Journal
 
-My objective is to record what I learn so that I can reinforce it and build better habits when it comes to developing projects.
+My objective is to record what I learn so that I can reinforce it and build better habits when it comes to developing projects. Time is precious. Do not move on from a subject until I fully understand the concept and can use it on my own. O.H.I.O (Only handle it once.)
 
 ## Wiki
 https://github.com/webdevkeenan/study-journal/wiki
